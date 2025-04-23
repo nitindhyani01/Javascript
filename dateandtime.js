@@ -1,0 +1,5 @@
+let MyDate=new Date()
+console.log(MyDate.toString())
+console.log(MyDate.toDateString())
+console.log(MyDate.toLocaleString())
+console.log(MyDate.toLocaleString())
